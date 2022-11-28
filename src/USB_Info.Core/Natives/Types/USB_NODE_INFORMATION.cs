@@ -9,4 +9,3 @@ internal struct USB_NODE_INFORMATION
 
     public USB_NODE_UNION UsbNodeUnion;
 }
-

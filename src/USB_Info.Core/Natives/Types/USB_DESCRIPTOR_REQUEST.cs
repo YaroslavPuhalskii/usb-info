@@ -11,4 +11,3 @@ internal struct USB_DESCRIPTOR_REQUEST
 
     internal USB_STRING_DESCRIPTOR StringDescriptor;
 }
-

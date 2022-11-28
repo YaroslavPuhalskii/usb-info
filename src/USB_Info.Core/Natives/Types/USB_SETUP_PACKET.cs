@@ -15,4 +15,3 @@ internal struct USB_SETUP_PACKET
 
     internal short wLength;
 }
-

@@ -9,4 +9,3 @@ internal struct USB_HUB_INFORMATION
 
     public readonly byte HubIsBusPowered;
 }
-
