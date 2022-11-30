@@ -1,4 +1,7 @@
-﻿namespace USB_Info.Core.Models;
+﻿using USB_Info.Core.Abstractions;
+using USB_Info.Core.Factories;
+
+namespace USB_Info.Core.Models;
 
 public class UsbRootHub : IUsbRootHub
 {

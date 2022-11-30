@@ -1,4 +1,6 @@
-﻿namespace USB_Info.Core.Models;
+﻿using USB_Info.Core.Abstractions;
+
+namespace USB_Info.Core.Models;
 
 public class UsbDevice : IConnectedUsbDevice
 {
