@@ -1,9 +1,4 @@
 ﻿using Microsoft.Win32.SafeHandles;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using USB_Info.Core.Abstractions;
 using USB_Info.Core.Models;
 using USB_Info.Core.Natives;
